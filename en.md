@@ -1,8 +1,3 @@
----
-layout: home
-title: Home
-lang: en
----
 # Data Dictionary Minimal Information Model - DDMIM
 Medical data is collected and processed in different scenarios, to different extents and in different formats. In order to gain a sufficient impression of these data and their meaning as an outsider, a data dictionary or codebook can be consulted. However, these are not always available and if they are, they are often not standardized, both in terms of content and structure.
 
