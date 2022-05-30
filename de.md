@@ -1,8 +1,3 @@
----
-layout: home
-title: Hauptseite
-lang: de
----
 # Data Dictionary Minimal Information Model - DDMIM
 Medizinische Daten werden in unterschiedlichen Szenarien, in unterschiedlichem Umfang und in unterschiedlichen Formaten erhoben und verarbeitet. Um als Außenstehender einen ausreichenden Eindruck über diese Daten und deren Bedeutung zu erhalten, kann ein Data Dictionary oder auch Codebook hinzugezogen werden. Diese sind jedoch nicht immer vorhanden und wenn, dann oftmals nicht standardisiert, sowohl bezogen auf den Inhalt als auch die Struktur.
 
