@@ -28,7 +28,7 @@ Minimale Informationen um die Datenqualitätsaspekte eines Datenelementes zu bes
 
 
 
-### Modul Standardisierung:
+### Modul Terminologie:
 Zur Vermeidung von Interpretationsfehlern und Vereinfachung von maschineller Verarbeitung ist die Annotation von  eindeutigen Codes hilfreich.
 
 | Attributname | Beschreibung | Kardinalität |
