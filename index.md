@@ -27,7 +27,7 @@ Minimal information to describe the data quality aspects of a data element.
 | Unit of measurement | Unit of measurement of a characteristic of the data element corresponding to the value range, e.g. kg, cm; at best standardized, e.g. UCUM | 0..1 |
 
 
-### Standardization module:
+### Terminology module:
 To avoid interpretation errors and simplify machine processing, the annotation of unique codes is helpful.
 
 | Attribute name | Description | Cardinality |
